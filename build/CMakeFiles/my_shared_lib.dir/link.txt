@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libmy_shared_lib.so.1 -o libmy_shared_lib.so.1.0 CMakeFiles/my_shared_lib.dir/src/directoryreader.cpp.o CMakeFiles/my_shared_lib.dir/src/dbhelpers.cpp.o  /usr/lib/x86_64-linux-gnu/libsqlite3.so 

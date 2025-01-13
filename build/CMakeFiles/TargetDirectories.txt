@@ -1,0 +1,7 @@
+/home/ubuntu/repos/non-binary/Directory-Reader/build/CMakeFiles/my_shared_lib.dir
+/home/ubuntu/repos/non-binary/Directory-Reader/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/repos/non-binary/Directory-Reader/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/repos/non-binary/Directory-Reader/build/CMakeFiles/list_install_components.dir
+/home/ubuntu/repos/non-binary/Directory-Reader/build/CMakeFiles/install.dir
+/home/ubuntu/repos/non-binary/Directory-Reader/build/CMakeFiles/install/local.dir
+/home/ubuntu/repos/non-binary/Directory-Reader/build/CMakeFiles/install/strip.dir
